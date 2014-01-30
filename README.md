@@ -1,4 +1,4 @@
-CSc184_Deliverable2
+CSc184: Deliverable 2
 ===================
 
 Coffee Machine Design I

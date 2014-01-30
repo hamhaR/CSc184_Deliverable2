@@ -12,12 +12,12 @@ public class CashBox {  // Tracks the amount of credit.
 
     public void deposit(int amount){    // Deposit money
         credit = credit + amount;
-        System.out.printf("CashBox: Depositing %d cents.\n" ,amount);
-        System.out.printf("You have now %d cents credit.\n" ,credit);
+        System.out.println("CashBox: Depositing " +amount +" cents.");
+        System.out.println("You have now " +credit +" cents credit.");
     }
 
     public void returnCoins(){  // Return coins
-        System.out.printf("CashBox: Returning %d cents \n" ,credit);
+        System.out.println("CashBox: Returning " +credit +" cents.");
         credit = 0;
     }
 

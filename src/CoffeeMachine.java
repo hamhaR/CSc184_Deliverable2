@@ -39,10 +39,6 @@ public class CoffeeMachine {
         return true;
     }
 
-
-    /**
-     * @param args
-     */
     public static void main(String[] args) {    // Test program.
         CoffeeMachine coffeeMachine = new CoffeeMachine();
         while(coffeeMachine.doOneAction());
