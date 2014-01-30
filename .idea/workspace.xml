@@ -4,7 +4,11 @@
     <list default="true" id="976c0f4a-877d-4331-ad50-3175efeb6025" name="Default" comment="" />
     <ignored path="CoffeeMachine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/CoffeeMachine.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391060423659" ignored="false" />
+    <file path="/CoffeeMachine.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094037427" ignored="false" />
+    <file path="/Selection.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094814629" ignored="false" />
+    <file path="/Selector.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391095153567" ignored="false" />
+    <file path="/CashBox.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094860888" ignored="false" />
+    <file path="/Mixer.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094915815" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,7 @@
       <file leaf-file-name="CashBox.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CashBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+            <state line="5" column="55" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +81,7 @@
       <file leaf-file-name="Selection.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+            <state line="20" column="24" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,7 +90,7 @@
       <file leaf-file-name="Selector.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Selector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="32" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+            <state line="17" column="37" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,7 +99,7 @@
       <file leaf-file-name="Mixer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mixer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+            <state line="13" column="30" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,7 +108,7 @@
       <file leaf-file-name="CoffeeMachine.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CoffeeMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="46" selection-start="825" selection-end="825" vertical-scroll-proportion="1.1956044">
+            <state line="15" column="37" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49610895">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -122,8 +126,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/CashBox.java" />
         <option value="$PROJECT_DIR$/src/Selection.java" />
+        <option value="$PROJECT_DIR$/src/CashBox.java" />
         <option value="$PROJECT_DIR$/src/Mixer.java" />
         <option value="$PROJECT_DIR$/src/Selector.java" />
         <option value="$PROJECT_DIR$/src/CoffeeMachine.java" />
@@ -354,8 +358,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.76714516" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23285486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.861244" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13875598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -428,37 +432,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CashBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+        <state line="20" column="24" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mixer.java">
+    <entry file="file://$PROJECT_DIR$/src/CashBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+        <state line="5" column="55" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="32" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+        <state line="17" column="37" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mixer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoffeeMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="46" selection-start="825" selection-end="825" vertical-scroll-proportion="1.1956044">
+        <state line="15" column="37" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49610895">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

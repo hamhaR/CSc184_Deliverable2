@@ -4,7 +4,7 @@
  * Date: 1/23/14
  */
 
-public class Selector {
+public class Selector { // Checks credit; Dispenses product.
     private CashBox pCashBox;
     private Mixer pMixer;
 
@@ -14,7 +14,7 @@ public class Selector {
     }
 
     public void select(Selection s){
-        int amount = s.price();
+        int amount = s.priceOf();
         if(pCashBox.haveYou(amount)){
             pMixer.make(s);
             pCashBox.deduct(amount);
