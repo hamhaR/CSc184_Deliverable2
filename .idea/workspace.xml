@@ -9,6 +9,7 @@
     <file path="/Selector.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391095153567" ignored="false" />
     <file path="/CashBox.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094860888" ignored="false" />
     <file path="/Mixer.java" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391094915815" ignored="false" />
+    <file path="/README.md" changelist="976c0f4a-877d-4331-ad50-3175efeb6025" time="1391097354962" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,10 +97,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mixer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Mixer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mixer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="13" selection-start="81" selection-end="81" vertical-scroll-proportion="0.106471814">
+            <state line="3" column="13" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="23" selection-start="64" selection-end="64" vertical-scroll-proportion="0.106471814">
               <folding />
             </state>
           </provider>
@@ -131,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/CoffeeMachine.java" />
         <option value="$PROJECT_DIR$/src/Selection.java" />
         <option value="$PROJECT_DIR$/src/Mixer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -342,7 +353,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -464,7 +475,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mixer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="81" selection-end="81" vertical-scroll-proportion="0.106471814">
+        <state line="3" column="13" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="64" selection-end="64" vertical-scroll-proportion="0.106471814">
           <folding />
         </state>
       </provider>
